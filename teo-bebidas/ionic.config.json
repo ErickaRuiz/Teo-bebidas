@@ -1,0 +1,7 @@
+{
+  "name": "Teo Bebidas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
